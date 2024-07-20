@@ -1,4 +1,4 @@
-# 👋 Hello! My name is Bao Ngo
+# 👋 Hello! I am Bao 
 
 <p align="justify">I am a final-year Data Science student passionate about uncovering insights and making data-driven decisions. I've developed a strong foundation in data science methodologies and tools throughout my academic journey. I am enthusiastic about applying my knowledge to solve real-world problems and contribute to innovative projects in a dynamic and challenging environment.</p>
 
