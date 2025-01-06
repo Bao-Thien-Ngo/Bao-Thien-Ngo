@@ -1,6 +1,6 @@
 # 👋 Hello! I am Bao 
 
-<p align="justify">I am a final-year Data Science student passionate about uncovering insights and making data-driven decisions. I've developed a strong foundation in data science methodologies and tools throughout my academic journey. I am enthusiastic about applying my knowledge to solve real-world problems and contribute to innovative projects in a dynamic and challenging environment.</p>
+<p align="justify">I'm a master's student in Data Science with a passion for machine learning, statistical analysis, and data visualization. I enjoy creating clear and concise technical documentation and love to distill complex data science topics into actionable insights. My goal is to bridge the gap between technical and non-technical stakeholders by effectively communicating data-driven findings. Here, you'll find projects that showcase my technical skills and my journey in data science. </p>
 
 
 # 💻  Languages and Tools:
